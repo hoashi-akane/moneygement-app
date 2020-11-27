@@ -31,7 +31,6 @@
       </activity>
       <activity android:name=".controller.ChatActivity"/>
       <activity android:name=".controller.LogoutActivity"/>
-      <activity android:name=".controller.DispCalenderHouseholdAccountBookActivity"/>
       <activity android:name=".controller.InputHouseholdAccountBookActivity"/>
       <activity android:name=".controller.MainActivity">
         <intent-filter>
